@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Upskilling **MERN Full Stack Development**
+- 🌱 I’m currently Upskilling **MERN Stack Developer**
 
-- 💬 Ask me about **Javascript, Microsoft Excel and Power BI**
+- 💬 Ask me about **Javascript, Html, Css, Tailwind, Bootstrap, MangoDb, Expressjs, Nodejs, React, Microsoft Excel and Power BI**
 
 - 📫 How to reach me **moosha31@gmail.com**
 
